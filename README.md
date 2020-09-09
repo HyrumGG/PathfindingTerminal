@@ -12,7 +12,7 @@ The application must be passed a gridfile in the proper format.
 
 ### Instructions:
 - Make sure the text file in proper format is in the same directory as the application
-- run the application by typing "python3 app.py <text file>" or "./app.py <text file>"
+- run the application by typing "python3 app.py (text file)" or "./app.py (text file)"
 
 ![capture](terminal.PNG)
 
